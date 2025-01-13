@@ -37,7 +37,7 @@
 ## Features and Constraints
 
 ### Development Constraints
-- **Time Allocation**: Approximately 1 hour and 30 minutes were spent on the frontend, and another 1 hour and 30 minutes on the backend.
+- **Time Allocation**: Approximately 2 hours on the frontend, and another 2 hours on the backend.
 
 ### Tools and Techniques
-- **Code Assistance**: GitHub Copilot was used for auto-completion within the IDE. No external prompts were used during development.
+- **Code Assistance**: GitHub Copilot was used for auto-completion within the IDE. No external prompts were needed during development.
